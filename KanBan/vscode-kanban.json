@@ -1,0 +1,133 @@
+{
+  "todo": [
+    {
+      "assignedTo": {
+        "name": "mathias"
+      },
+      "creation_time": "2025-04-20T03:02:00.973Z",
+      "description": {
+        "content": "organizar las carpetas",
+        "mime": "text/markdown"
+      },
+      "id": "1",
+      "prio": 10,
+      "references": [],
+      "title": "Crear una estructura básica de carpetas",
+      "type": "emergency"
+    },
+    {
+      "assignedTo": {
+        "name": "mathias"
+      },
+      "creation_time": "2025-04-20T03:06:56.533Z",
+      "description": {
+        "content": "transportar los cambios efectuados a github, como git, kanband board, etc",
+        "mime": "text/markdown"
+      },
+      "id": "6",
+      "prio": 5,
+      "references": [],
+      "title": "trasportar los cambio a github"
+    },
+    {
+      "assignedTo": {
+        "name": "mathias"
+      },
+      "creation_time": "2025-04-20T03:05:32.914Z",
+      "description": {
+        "content": "Crear una rama secundaria para pruebas y cambios experimentales.",
+        "mime": "text/markdown"
+      },
+      "id": "4",
+      "prio": 3,
+      "references": [],
+      "title": "Crear una rama secundaria"
+    },
+    {
+      "assignedTo": {
+        "name": "mathias"
+      },
+      "creation_time": "2025-04-20T03:07:17.146Z",
+      "description": {
+        "content": "Configurar un sistema de control de versiones con Git para el proyecto.",
+        "mime": "text/markdown"
+      },
+      "id": "7",
+      "prio": 2,
+      "references": [],
+      "title": "Configurar un sistema de control de versiones."
+    },
+    {
+      "assignedTo": {
+        "name": "mathias"
+      },
+      "creation_time": "2025-04-20T03:10:36.691Z",
+      "id": "8",
+      "prio": 1,
+      "references": [],
+      "title": "Añadir más preguntas por categoría."
+    },
+    {
+      "assignedTo": {
+        "name": "mathias"
+      },
+      "creation_time": "2025-04-20T03:11:03.578Z",
+      "id": "9",
+      "prio": 1,
+      "references": [],
+      "title": "Llevar puntaje del usuario."
+    },
+    {
+      "assignedTo": {
+        "name": "mathias"
+      },
+      "creation_time": "2025-04-20T03:06:07.211Z",
+      "description": {
+        "content": "Desarrollar una funcionalidad específica (como una función o módulo simple).",
+        "mime": "text/markdown"
+      },
+      "id": "5",
+      "references": [],
+      "title": "Desarrollar una funcionalidad específica"
+    },
+    {
+      "assignedTo": {
+        "name": "mathias"
+      },
+      "creation_time": "2025-04-20T03:03:28.755Z",
+      "description": {
+        "content": "implementar una descripccion del proyecto, es decir un archivo readme\n",
+        "mime": "text/markdown"
+      },
+      "id": "2",
+      "references": [],
+      "title": "Implementar un archivo README"
+    },
+    {
+      "assignedTo": {
+        "name": "mathias"
+      },
+      "creation_time": "2025-04-20T03:05:00.090Z",
+      "description": {
+        "content": "Realizar al menos 3 commits en diferentes etapas de desarrollo.",
+        "mime": "text/markdown"
+      },
+      "id": "3",
+      "references": [],
+      "title": "Realizar al menos 3 commits"
+    },
+    {
+      "assignedTo": {
+        "name": "mathias"
+      },
+      "creation_time": "2025-04-20T03:12:44.698Z",
+      "id": "10",
+      "prio": 2,
+      "references": [],
+      "title": "Permitir respuestas múltiples y verificar aciertos"
+    }
+  ],
+  "in-progress": [],
+  "testing": [],
+  "done": []
+}
