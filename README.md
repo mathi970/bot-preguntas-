@@ -55,9 +55,9 @@ python main.py
 
 
 ## 📌 Notas
-[!NOTE] El bot está en desarrollo. Se planea agregar un sistema de puntajes, niveles de dificultad y rankings.
+.[!NOTE]. El bot está en desarrollo. Se planea agregar un sistema de puntajes, niveles de dificultad y rankings.
 
-[!NOTE] Las preguntas pueden ser modificadas fácilmente editando el archivo correspondiente
+.[!NOTE]. Las preguntas pueden ser modificadas fácilmente editando el archivo correspondiente
 
 ## 🧠 Autor
 Desarrollado por mathias.
