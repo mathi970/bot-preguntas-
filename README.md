@@ -44,20 +44,9 @@ DISCORD_TOKEN=tu_token_aquí
 
 python main.py
 
-
-## 📂 Estructura del proyecto:
-
-📁 bot-de-trivia/
-├── main.py           # Archivo principal del bot
-├── preguntas.py      # Lógica y base de datos de preguntas
-├── kanban/           # Carpeta del tablero Kanban
-└── README.md         # Este archivo
-
-
 ## 📌 Notas
-.[!NOTE]. El bot está en desarrollo. Se planea agregar un sistema de puntajes, niveles de dificultad y rankings.
-
-.[!NOTE]. Las preguntas pueden ser modificadas fácilmente editando el archivo correspondiente
+El bot está en desarrollo. Se planea agregar un sistema de puntajes, niveles de dificultad y rankings.
+Las preguntas pueden ser modificadas fácilmente editando el archivo correspondiente
 
 ## 🧠 Autor
 Desarrollado por mathias.
