@@ -1,67 +1,64 @@
-🤖 Bot de Trivia Educativa para Discord
-Este es un bot de trivia educativa para Discord, diseñado con discord.py, que permite a los usuarios responder preguntas de diferentes categorías escolares de forma divertida y didáctica.
+## 🤖 Bot de Trivia Educativa para Discord
+Este repositorio contiene el código para un bot de preguntas educativas para Discord, diseñado para realizar preguntas interactivas en varias categorías académicas. El bot está escrito en Python y usa la librería discord.py para la interacción con la API de Discord.
 
-📚 Categorías disponibles
+## Objetivo
+El propósito de este proyecto es proporcionar un bot educativo que ayude a los usuarios a mejorar su conocimiento en diversas áreas, tales como matemáticas, ciencia, arte y más, a través de un sistema de preguntas y respuestas.
+
+## 📚 Categorías disponibles
 -Matemáticas
 -Comunicación
-Inglés
+-Inglés
 -Ciencias Sociales
 -Ciencia y Tecnología
-Arte y Cultura
-DPCC (Desarrollo Personal, Ciudadanía y Cívica)
-ETP (Educación para el Trabajo)
+-Arte y Cultura
+-DPCC (Desarrollo Personal, Ciudadanía y Cívica)
+-ETP (Educación para el Trabajo)
 
-⚙️ Características
+## ⚙️ Características
 ❓ Preguntas aleatorias por categoría.
 ♾️ Intentos infinitos para responder.
-✅ Confirmación de que es un bot (evento especial).
-⌨️ Prefijo de comandos personalizado: &
-🚀 Tecnologías utilizadas
-Python 3.x
+⌨️ Prefijo de comandos: &
 
+## 🚀 Tecnologías utilizadas:
+Python 3.x
 discord.py
 
 
-🛠️ Cómo ejecutar el bot
-Clona este repositorio:
+## 🛠️ Cómo ejecutar el bot
+1. Clona este repositorio:
 
-bash
-Copiar
-Editar
 git clone https://github.com/mathi970/bot-preguntas-.git
 cd bot-preguntas-
-Instala las dependencias:
 
-bash
-Copiar
-Editar
+
+2. Instala las dependencias:
+
 pip install -r requirements.txt
-Crea un archivo .env o una variable de entorno con tu token de bot:
 
-ini
-Copiar
-Editar
+3. Crea un archivo .env o una variable de entorno con tu token de bot:
+
 DISCORD_TOKEN=tu_token_aquí
-Ejecuta el bot:
 
-bash
-Copiar
-Editar
+
+4. Ejecuta el bot:
+
 python main.py
-📂 Estructura del proyecto
-bash
-Copiar
-Editar
+
+
+## 📂 Estructura del proyecto:
+
 📁 bot-de-trivia/
 ├── main.py           # Archivo principal del bot
 ├── preguntas.py      # Lógica y base de datos de preguntas
 ├── kanban/           # Carpeta del tablero Kanban
 └── README.md         # Este archivo
-📌 Notas
-El bot está en desarrollo. Se planea agregar un sistema de puntajes, niveles de dificultad y rankings.
 
-Las preguntas pueden ser modificadas fácilmente editando el archivo correspondiente.
 
-🧠 Autor
+## 📌 Notas
+[!NOTE] El bot está en desarrollo. Se planea agregar un sistema de puntajes, niveles de dificultad y rankings.
+
+[!NOTE] Las preguntas pueden ser modificadas fácilmente editando el archivo correspondiente
+
+## 🧠 Autor
 Desarrollado por mathias.
 Para tener aprendizaje interactivo. 🇵🇪
